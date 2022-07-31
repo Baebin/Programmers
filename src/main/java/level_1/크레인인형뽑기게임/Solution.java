@@ -2,6 +2,7 @@ package level_1.크레인인형뽑기게임;
 
 import java.util.Stack;
 
+
 class Solution {
     public int solution(int[][] board, int[] moves) {
         int answer = 0;
