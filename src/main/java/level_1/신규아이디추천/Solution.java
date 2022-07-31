@@ -1,5 +1,4 @@
 package level_1.신규아이디추천;
-
 class Solution {
     public String solution(String new_id) {
         new_id = new_id.toLowerCase()
