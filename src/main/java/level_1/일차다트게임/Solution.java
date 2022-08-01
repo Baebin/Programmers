@@ -14,7 +14,6 @@ class Solution {
                 } else scoreList[index++] = Character.getNumericValue(c);
                 continue;
             }
-
             switch (c) {
                 case 'S':
                     scoreList[index-1] = (int) Math.pow(scoreList[index-1], 1);
