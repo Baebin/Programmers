@@ -23,6 +23,7 @@ ___
 | 1 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=java) | [Solution.java](https://github.com/Baebin/Programmers/tree/master/src/main/java/level_1/%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0) |
 | 1 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0/Solution.java) |
 | 1 | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Solution.java) |
+| 1 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%ED%8F%B0%EC%BC%93%EB%AA%AC/Solution.java) |
 
 ___
 
