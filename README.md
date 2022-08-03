@@ -22,6 +22,8 @@ ___
 | 1 | [[카카오 인턴] 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9D%B8%ED%84%B4%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0/Solution.java) |
 | 1 | [없는 숫자 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/86051?language=java) | [Solution.java](https://github.com/Baebin/Programmers/tree/master/src/main/java/level_1/%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0) |
 | 1 | [음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0/Solution.java) |
+| 1 | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Solution.java) |
+
 ___
 
 ## Environment
