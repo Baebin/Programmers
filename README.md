@@ -25,6 +25,9 @@ ___
 | 1 | [소수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12977?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Solution.java) |
 | 1 | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%ED%8F%B0%EC%BC%93%EB%AA%AC/Solution.java) |
 | 1 | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576?language=java) | [Solutiom.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98/Solution.java) |
+| 1 | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/K%EB%B2%88%EC%A7%B8%EC%88%98/Solution.java) |
+| 1 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/Solution.java) |
+
 ___
 
 ## Environment
