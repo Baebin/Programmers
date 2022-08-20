@@ -28,6 +28,7 @@ ___
 | 1 | [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/K%EB%B2%88%EC%A7%B8%EC%88%98/Solution.java) |
 | 1 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/Solution.java) |
 | 1 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0/Solution.java) |
+| 1 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4/Solution.java) |
 
 ___
 
