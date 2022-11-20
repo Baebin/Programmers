@@ -37,6 +37,9 @@ ___
 - Language: Java (JDK 17)
 - Build Tool: Gradle
 
+- *(IDE: Visual Studio Community 2022)*
+- Language: C
+
 ___
 
 ## Author's Blog (Naver)
