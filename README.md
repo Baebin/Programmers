@@ -42,8 +42,7 @@ ___
 ## Environment
 - *(IDE: IntelliJ IDEA Community Edition 2021)*
 - Language: Java (JDK 17)
-- Build Tool: Gradle
-
+- Build Tool: Gradle</br></br>
 - *(IDE: Visual Studio Community 2022)*
 - Language: C
 
