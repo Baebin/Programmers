@@ -29,6 +29,13 @@ ___
 | 1 | [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/Solution.java) |
 | 1 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0/Solution.java) |
 | 1 | [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906?language=java) | [Solution.java](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4/Solution.java) |
+| 1 | [정수 제곱근 판별](https://school.programmers.co.kr/learn/courses/30/lessons/12934?language=c) | [Solution.c](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EC%A0%95%EC%88%98%EC%A0%9C%EA%B3%B1%EA%B7%BC%ED%8C%90%EB%B3%84/Solution.c) |
+| 1 | [짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937?language=c) | [Solution.c](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EC%A7%9D%EC%88%98%EC%99%80%ED%99%80%EC%88%98/Solution.c) |
+| 1 | [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=c) | [Solution.c](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0/Solution.c) |
+| 1 | [약수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12928?language=c) | [Solution.c](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9/Solution.c) |
+| 1 | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931?language=c) | [Solution.c](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EC%9E%90%EB%A6%BF%EC%88%98%EB%8D%94%ED%95%98%EA%B8%B0/Solution.c) |
+| 1 | [자릿수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932?language=c) | [Solution.c](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EC%9E%90%EB%A6%BF%EC%88%98%EB%92%A4%EC%A7%91%EC%96%B4%EB%B0%B0%EC%97%B4%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0/Solution.c) |
+| 1 | [문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925?language=c) | [Solution.c](https://github.com/Baebin/Programmers/blob/master/src/main/java/level_1/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%EC%A0%95%EC%88%98%EB%A1%9C%EB%B0%94%EA%BE%B8%EA%B8%B0/Solution.c) |
 
 ___
 
